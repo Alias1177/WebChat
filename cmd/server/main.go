@@ -1,3 +1,8 @@
 package main
 
-//git hub actions
+import "fmt"
+
+// git hub actions
+func main() {
+	fmt.Println("Hello world!")
+}
